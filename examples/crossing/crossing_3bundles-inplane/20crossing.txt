@@ -7,17 +7,17 @@
       "tangents": "symmetric",
       "radius": 4.0
     },
-    "fiber070x": {
+    "fiber160": {
       "control_points":
-        [ 17.1,  47.0, 0.0,
-         -17.1, -47.0, 0.0],
+        [ -47.0,  17.1, 0.0,
+         47.0, -17.1, 0.0],
       "tangents": "symmetric",
       "radius": 4.0
     },
-    "fiber070z": {
+    "fiber020": {
       "control_points":
-        [ 0.0, 47.0, 17.1,
-         0.0, -47.0, -17.1],
+        [ 47.0,  17.1, 0.0,
+         -47.0, -17.1, 0.0],
       "tangents": "symmetric",
       "radius": 4.0
     }
